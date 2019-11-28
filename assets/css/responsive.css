@@ -1,0 +1,43 @@
+@media (min-width:360px){
+    .logo-header {
+        width: 600px;
+        height: 600px;
+        margin-top: 100px;
+        margin-right: 10px;
+        
+    }
+
+    .text-underline{
+        font-size: 1em;
+    }
+
+    .font-italic{
+        font-size: 1.3em;
+        text-align: center;
+    }
+
+    .mb-3{
+        font-size: 1.3em;
+        text-align: center;
+    }
+
+    .evoluimos {
+        text-align: center;
+    }
+
+    /*equipe*/
+    .fs-3 {
+        font-size: 2em;
+    }
+
+    .gambi1{
+        margin-left: -20px;
+    }
+
+    .gambi2{
+        margin-left: -20px;
+    }
+
+
+}
+
